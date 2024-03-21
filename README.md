@@ -2,7 +2,7 @@
 
 <h2>My name is Christopher.</h2> 
 <br>
-<h3>I’m a Full Stack Software Engineer with a background in public speaking, project coordination, and team leadership. My creative problem-solving skills and adaptability has empowered me to foster effective working environments and positive results in the face of new challenges.</h3>
+<h3>I’m a Full Stack Software Engineer with a background in public speaking, project coordination, and team leadership. <br>My creative problem-solving skills and adaptability has empowered me to foster effective working environments and positive results in the face of new challenges.</h3>
 <h4>...but you probably figured that out already if you're looking at my profile.<br>Fun fact, I'm also a novelist, podcast producer, and a muay thai fighter!</h4>
 <h5>Ask me about how to throw a quality switch kick!</h5> 🥋<h5>Or ask me how to craft effective plot structure for that 'million dollar book idea' you've been brewing up for years!</h5>
 
