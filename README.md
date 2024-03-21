@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Christopher. 
+<h2>My name is Christopher.</h2> 
+<br>
+<h3>I'm a Sotfware Engineer</h3>
+<h4>...but you probably figured that out already if you're looking at my profile.</h4>
