@@ -14,4 +14,7 @@
 
 <h5>Programming Languages/Frameworks: HTML/CSS/Javascript, React, Node.js, Express, NodeJS, MongoDB
 
+Languages and Tools:
+css3 html5 javascript mongodb python react
+
 Utilities: CLI, Adobe Creative Cloud, Figma, Visual Studio Code, Git, GitHub, MongoDB Atlas, Microsoft Office, Microsoft Teams, Slack, Zoom, Discord, Adobe Creative Cloud
