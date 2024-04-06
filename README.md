@@ -6,8 +6,10 @@
 <h4 align="center">...but you probably figured that out already if you're looking at my profile.<br>Fun fact, I'm also a novelist, podcast producer, and a muay thai fighter!</h4>
 <h5 align="center">Ask me about how to throw a quality switch kick! I do intro lessons for folx all the time.🥋</h5>
 <p>I'm on a constant journey of growth and evolution, sinking my teeth into the next big passion project and upskilling all the while. </p>
-<h4 align="center">🥊 I'm currently working on Fight Companion, a new twist on dating apps dedicated to the martial arts community and finding the perfect sparring partner!</h4>
-<h4 align="center">I'm currently learning the ins and outs of Socket.io, studying Python, and brushing up on my algorithms.</h4>
+
+<h4 align="center">I'm currently learning the ins and outs of Socket.io, studying Python, and brushing up on my algorithms before jumping into my next major planned project, Fight Companion! 🥊 
+  
+  Imagine a new twist on dating apps dedicated to the martial arts community and finding the perfect sparring partner!</h4>a new twist on dating apps dedicated to the martial arts community and finding the perfect sparring partner!</h4>.</h4>
 <br>
 <h4 align="center">If you'd like to connect, reach out! Always happy to have a convo.</h4>
 📧 Email : clazariuk@gmail.com
