@@ -7,6 +7,8 @@
 <h5 align="center">Ask me about how to throw a quality switch kick! I do intro lessons for folx all the time.🥋</h5>
 <p>I'm on a constant journey of growth and evolution, sinking my teeth into the next big passion project and upskilling all the while. </p>
 
+<h4 align="center">I just completed an eight week intensive hackathon with the folks a Driven ii Develop. After a lengthy process of project managing the dev and design teams while overseeing full stack application development. Presentation link coming soon!</h4>
+
 <h4 align="center">I'm currently learning the ins and outs of Socket.io, studying Python, and brushing up on my algorithms before jumping into my next major planned project, Fight Companion! 🥊 
   
   Imagine a new twist on dating apps dedicated to the martial arts community and finding the perfect sparring partner!</h4></h4>
