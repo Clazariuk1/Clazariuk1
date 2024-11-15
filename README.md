@@ -2,8 +2,8 @@
 
 <h2 align="center">My name is Christopher.</h2> 
 <br>
-<h3 align="center">I’m a Software Engineer.<br></h3>
-<h4 align="center">...but you probably figured that out already if you're looking at my profile.<br>Fun fact, I'm also a novelist, podcast producer, and a muay thai fighter!</h4>
+<h3 align="center">I’m a Software Engineer, an Operations Specialist, and an advocate for users, customers, colleagues, and communities.<br></h3>
+<h4 align="center"><br>Fun fact, I'm also a novelist, podcast producer, and a muay thai fighter!</h4>
 <h5 align="center">Ask me about how to throw a quality switch kick! I do intro lessons for folx all the time.🥋</h5>
 <p>I'm on a constant journey of growth and evolution, sinking my teeth into the next big passion project and upskilling all the while. </p>
 
